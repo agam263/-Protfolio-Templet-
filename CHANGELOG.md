@@ -63,3 +63,4 @@
 - Refine button shadow effects
 - Update project details
 - Fix active nav state bug
+- Optimize CSS bundle
