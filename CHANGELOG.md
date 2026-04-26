@@ -78,3 +78,4 @@
 - Fix scroll progress calculation
 - Update background noise implementation
 - Adjust project row animations
+- Update about principles layout
