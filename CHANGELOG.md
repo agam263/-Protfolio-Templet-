@@ -13,3 +13,4 @@
 - Optimize GSAP scroll triggers
 - Remove redundant CSS classes
 - Improve accessibility labels
+- Update project highlight descriptions
