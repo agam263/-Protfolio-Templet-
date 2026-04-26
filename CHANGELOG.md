@@ -46,3 +46,4 @@
 - Fix text contrast in light mode
 - Update package dependencies
 - Refactor styling for modularity
+- Add dynamic background color transitions
