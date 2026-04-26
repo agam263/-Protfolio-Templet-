@@ -49,3 +49,4 @@
 - Add dynamic background color transitions
 - Fix iframe display issues
 - Update hero stats layout
+- Optimize performance of blur effects
