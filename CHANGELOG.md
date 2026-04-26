@@ -18,3 +18,4 @@
 - Add gradient text effects
 - Update scroll progress bar logic
 - Fix mobile navigation toggle
+- Optimize asset loading
