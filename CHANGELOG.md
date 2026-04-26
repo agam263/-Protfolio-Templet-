@@ -1,1 +1,2 @@
 - Refactor Navbar component structure
+- Update responsive layout for mobile screens
