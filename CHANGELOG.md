@@ -20,3 +20,4 @@
 - Fix mobile navigation toggle
 - Optimize asset loading
 - Adjust spacing in Work section
+- Update theme switcher functionality
