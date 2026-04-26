@@ -69,3 +69,4 @@
 - Fix contact section spacing
 - Adjust lenis scroll duration
 - Update footer copyright year
+- Refactor template literals
