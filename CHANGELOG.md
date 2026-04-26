@@ -82,3 +82,4 @@
 - Fix button active states
 - Update contact heading font
 - Refine magnetic cursor tracking
+- Update project counter animations
