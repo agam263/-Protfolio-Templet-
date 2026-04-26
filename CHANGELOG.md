@@ -24,3 +24,4 @@
 - Add magnetic effect to buttons
 - Refine floating animations
 - Update hero text typewriter effect
+- Fix responsive breakpoints
