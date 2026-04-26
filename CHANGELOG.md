@@ -4,3 +4,4 @@
 - Adjust color palette for dark mode
 - Implement smooth scrolling using Lenis
 - Update typography and font weights
+- Fix alignment in About section
