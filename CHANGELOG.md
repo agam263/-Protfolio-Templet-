@@ -10,3 +10,4 @@
 - Update footer social links
 - Refine Contact form styling
 - Add grid background pattern
+- Optimize GSAP scroll triggers
