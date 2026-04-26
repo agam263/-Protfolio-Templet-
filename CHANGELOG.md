@@ -9,3 +9,4 @@
 - Enhance project card hover effects
 - Update footer social links
 - Refine Contact form styling
+- Add grid background pattern
