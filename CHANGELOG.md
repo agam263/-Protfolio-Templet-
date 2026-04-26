@@ -48,3 +48,4 @@
 - Refactor styling for modularity
 - Add dynamic background color transitions
 - Fix iframe display issues
+- Update hero stats layout
