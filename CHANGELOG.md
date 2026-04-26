@@ -40,3 +40,4 @@
 - Update component imports
 - Refine project tag styling
 - Fix layout thrashing on scroll
+- Add active state to navigation items
