@@ -61,3 +61,4 @@
 - Update index.html structure
 - Add custom scrollbar styles
 - Refine button shadow effects
+- Update project details
