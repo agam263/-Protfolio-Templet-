@@ -29,3 +29,4 @@
 - Update project preview placeholders
 - Enhance divider styling with gradients
 - Refactor animation initialization
+- Fix intersection observer memory leak
