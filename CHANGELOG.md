@@ -79,3 +79,4 @@
 - Update background noise implementation
 - Adjust project row animations
 - Update about principles layout
+- Fix button active states
