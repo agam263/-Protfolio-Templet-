@@ -35,3 +35,4 @@
 - Adjust button padding and borders
 - Add tooltip styles
 - Update contact section layout
+- Fix parallax orb positioning
