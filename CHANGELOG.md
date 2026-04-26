@@ -26,3 +26,4 @@
 - Update hero text typewriter effect
 - Fix responsive breakpoints
 - Add hardware acceleration to animations
+- Update project preview placeholders
