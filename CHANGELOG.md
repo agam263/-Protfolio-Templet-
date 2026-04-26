@@ -23,3 +23,4 @@
 - Update theme switcher functionality
 - Add magnetic effect to buttons
 - Refine floating animations
+- Update hero text typewriter effect
