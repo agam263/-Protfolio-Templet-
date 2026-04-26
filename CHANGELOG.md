@@ -81,3 +81,4 @@
 - Update about principles layout
 - Fix button active states
 - Update contact heading font
+- Refine magnetic cursor tracking
