@@ -50,3 +50,4 @@
 - Fix iframe display issues
 - Update hero stats layout
 - Optimize performance of blur effects
+- Add focus states for accessibility
