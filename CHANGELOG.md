@@ -37,3 +37,4 @@
 - Update contact section layout
 - Fix parallax orb positioning
 - Optimize CSS variables
+- Update component imports
