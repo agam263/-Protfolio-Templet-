@@ -43,3 +43,4 @@
 - Add active state to navigation items
 - Update hero subtext
 - Adjust container max-width
+- Fix text contrast in light mode
