@@ -17,3 +17,4 @@
 - Fix z-index issues in fixed headers
 - Add gradient text effects
 - Update scroll progress bar logic
+- Fix mobile navigation toggle
