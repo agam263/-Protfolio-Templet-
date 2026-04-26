@@ -53,3 +53,4 @@
 - Add focus states for accessibility
 - Update project code links
 - Refine typography scaling
+- Fix text overflow in project cards
