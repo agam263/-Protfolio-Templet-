@@ -44,3 +44,4 @@
 - Update hero subtext
 - Adjust container max-width
 - Fix text contrast in light mode
+- Update package dependencies
