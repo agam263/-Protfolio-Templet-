@@ -1,3 +1,4 @@
 - Refactor Navbar component structure
 - Update responsive layout for mobile screens
 - Optimize Hero section animations
+- Adjust color palette for dark mode
