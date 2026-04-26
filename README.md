@@ -33,12 +33,11 @@ It focuses on **Micro-interactions**, **Typography**, and **Smooth Scrolling** t
 
 <br />
 
-> **Screenshots Placeholder:**  
-> *Please add the provided screenshots to a `screenshots/` folder to display them here!*
-> 
-> `<img src="./screenshots/hero-light.png" width="800" alt="Hero Light Mode">`  
-> `<img src="./screenshots/about-dark.png" width="800" alt="About Dark Mode">`  
-> `<img src="./screenshots/projects.png" width="800" alt="Projects Layout">`
+<div align="center">
+  <img src="./screenshots/hero.png" width="800" alt="Hero Light Mode" style="border-radius: 8px; margin-bottom: 20px;">
+  <img src="./screenshots/about.png" width="800" alt="About Dark Mode" style="border-radius: 8px; margin-bottom: 20px;">
+  <img src="./screenshots/projects.png" width="800" alt="Projects Layout" style="border-radius: 8px;">
+</div>
 
 ---
 
