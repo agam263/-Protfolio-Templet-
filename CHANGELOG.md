@@ -41,3 +41,4 @@
 - Refine project tag styling
 - Fix layout thrashing on scroll
 - Add active state to navigation items
+- Update hero subtext
