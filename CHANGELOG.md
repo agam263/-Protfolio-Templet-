@@ -12,3 +12,4 @@
 - Add grid background pattern
 - Optimize GSAP scroll triggers
 - Remove redundant CSS classes
+- Improve accessibility labels
