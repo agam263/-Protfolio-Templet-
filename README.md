@@ -9,7 +9,7 @@
 <div align="center">
   <h1 align="center">Premium Developer Portfolio Template</h1>
   <p align="center">
-    A highly polished, 60fps hardware-accelerated portfolio template built with Vanilla JS, GSAP, and Vite.
+    A highly polished, 120fps hardware-accelerated portfolio template built with Vanilla JS, GSAP, and Vite.
     <br />
     <br />
     <a href="#features"><strong>Explore Features »</strong></a>
@@ -49,7 +49,7 @@ It focuses on **Micro-interactions**, **Typography**, and **Smooth Scrolling** t
 - **Lenis Smooth Scrolling:** Custom interpolation configured for a hyper-realistic, responsive scroll feel.
 - **Magnetic Custom Cursor:** An interactive cursor ring that dynamically snaps to clickable elements.
 - **Dark / Light Mode:** A fully robust theme toggler with customized OLED-dark and glassmorphism-light palettes.
-- **Zero Layout Thrashing:** Carefully optimized JavaScript event listeners and `IntersectionObservers` to guarantee 60fps scrolling.
+- **Zero Layout Thrashing:** Carefully optimized JavaScript event listeners and `IntersectionObservers` to guarantee 120fps scrolling.
 - **Dynamic Backgrounds:** A seamless, CSS-only moving technical grid background.
 
 ---
