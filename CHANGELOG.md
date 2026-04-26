@@ -6,3 +6,4 @@
 - Update typography and font weights
 - Fix alignment in About section
 - Add custom cursor styling
+- Enhance project card hover effects
