@@ -70,3 +70,4 @@
 - Adjust lenis scroll duration
 - Update footer copyright year
 - Refactor template literals
+- Fix touch events on mobile
