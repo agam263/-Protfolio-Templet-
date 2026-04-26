@@ -68,3 +68,4 @@
 - Update hero image placeholder
 - Fix contact section spacing
 - Adjust lenis scroll duration
+- Update footer copyright year
