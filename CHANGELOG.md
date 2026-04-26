@@ -75,3 +75,4 @@
 - Add hover transitions to links
 - Refine hero section grid
 - Update project type styling
+- Fix scroll progress calculation
