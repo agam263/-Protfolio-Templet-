@@ -31,3 +31,4 @@
 - Refactor animation initialization
 - Fix intersection observer memory leak
 - Update document title and meta tags
+- Optimize mouse move event listeners
