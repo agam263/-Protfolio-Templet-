@@ -1,0 +1,1 @@
+- Refactor Navbar component structure
