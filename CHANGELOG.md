@@ -39,3 +39,4 @@
 - Optimize CSS variables
 - Update component imports
 - Refine project tag styling
+- Fix layout thrashing on scroll
