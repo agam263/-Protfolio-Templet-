@@ -36,3 +36,4 @@
 - Add tooltip styles
 - Update contact section layout
 - Fix parallax orb positioning
+- Optimize CSS variables
