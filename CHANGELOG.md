@@ -14,3 +14,4 @@
 - Remove redundant CSS classes
 - Improve accessibility labels
 - Update project highlight descriptions
+- Fix z-index issues in fixed headers
