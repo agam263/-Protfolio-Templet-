@@ -64,3 +64,4 @@
 - Update project details
 - Fix active nav state bug
 - Optimize CSS bundle
+- Add preload tags for fonts
