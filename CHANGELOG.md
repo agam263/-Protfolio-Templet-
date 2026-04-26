@@ -38,3 +38,4 @@
 - Fix parallax orb positioning
 - Optimize CSS variables
 - Update component imports
+- Refine project tag styling
