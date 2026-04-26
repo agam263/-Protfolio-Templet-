@@ -67,3 +67,4 @@
 - Add preload tags for fonts
 - Update hero image placeholder
 - Fix contact section spacing
+- Adjust lenis scroll duration
