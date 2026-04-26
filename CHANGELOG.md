@@ -7,3 +7,4 @@
 - Fix alignment in About section
 - Add custom cursor styling
 - Enhance project card hover effects
+- Update footer social links
