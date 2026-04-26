@@ -22,3 +22,4 @@
 - Adjust spacing in Work section
 - Update theme switcher functionality
 - Add magnetic effect to buttons
+- Refine floating animations
