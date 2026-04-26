@@ -57,3 +57,4 @@
 - Add smooth reveal animations
 - Update about section content layout
 - Adjust scroll trigger offsets
+- Fix theme toggle icon alignment
