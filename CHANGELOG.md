@@ -77,3 +77,4 @@
 - Update project type styling
 - Fix scroll progress calculation
 - Update background noise implementation
+- Adjust project row animations
