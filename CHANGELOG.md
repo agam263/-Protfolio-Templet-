@@ -60,3 +60,4 @@
 - Fix theme toggle icon alignment
 - Update index.html structure
 - Add custom scrollbar styles
+- Refine button shadow effects
