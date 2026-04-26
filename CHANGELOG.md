@@ -2,3 +2,4 @@
 - Update responsive layout for mobile screens
 - Optimize Hero section animations
 - Adjust color palette for dark mode
+- Implement smooth scrolling using Lenis
