@@ -19,3 +19,4 @@
 - Update scroll progress bar logic
 - Fix mobile navigation toggle
 - Optimize asset loading
+- Adjust spacing in Work section
