@@ -73,3 +73,4 @@
 - Fix touch events on mobile
 - Update global font family
 - Add hover transitions to links
+- Refine hero section grid
