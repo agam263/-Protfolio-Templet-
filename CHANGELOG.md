@@ -25,3 +25,4 @@
 - Refine floating animations
 - Update hero text typewriter effect
 - Fix responsive breakpoints
+- Add hardware acceleration to animations
