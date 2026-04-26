@@ -59,3 +59,4 @@
 - Adjust scroll trigger offsets
 - Fix theme toggle icon alignment
 - Update index.html structure
+- Add custom scrollbar styles
