@@ -56,3 +56,4 @@
 - Fix text overflow in project cards
 - Add smooth reveal animations
 - Update about section content layout
+- Adjust scroll trigger offsets
