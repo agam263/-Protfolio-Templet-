@@ -54,3 +54,4 @@
 - Update project code links
 - Refine typography scaling
 - Fix text overflow in project cards
+- Add smooth reveal animations
