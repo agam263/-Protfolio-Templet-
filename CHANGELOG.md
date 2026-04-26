@@ -52,3 +52,4 @@
 - Optimize performance of blur effects
 - Add focus states for accessibility
 - Update project code links
+- Refine typography scaling
