@@ -74,3 +74,4 @@
 - Update global font family
 - Add hover transitions to links
 - Refine hero section grid
+- Update project type styling
